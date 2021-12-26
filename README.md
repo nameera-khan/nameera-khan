@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nameera-khan
-- 👀 I’m interested in data science and artificial intelligence
+# 👋 Hi, I’m Nameera Khan
+- 👀 I’m interested in data science, artificial intelligence, story-telling and fighting for climate justice (the list goes on, actually). 
 - 🌱 I’m currently learning to code with python for data science. 
 - This field has fascinated me enough to help me choose it as my career path. 
-- Learning to tell stories with data in all its glory.
+- I am learning to tell stories with data in all its glory.
 - 📫 How to reach me https://www.linkedin.com/in/nameera-khan-/
 
 <!---
